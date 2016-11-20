@@ -13,6 +13,7 @@ public class CalyApplication {
 
 	public static void main(String[] args) {
 		
+	    
 		System.exit(SpringApplication
 		        .exit(SpringApplication.run(CalyApplication.class, args)));
 	}
